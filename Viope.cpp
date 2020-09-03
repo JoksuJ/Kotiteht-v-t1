@@ -1,7 +1,7 @@
 /*
 
 //KOTITEHTÄVÄ 1
-/Muutos
+
 #include<iostream>
 using namespace std;
 int main() {
