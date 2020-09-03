@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Kotitehtävät1", "Kotitehtävät1.vcxproj", "{10BF0F2C-EEDB-4272-BC1F-6369379D1C48}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10BF0F2C-EEDB-4272-BC1F-6369379D1C48}.Debug|x64.ActiveCfg = Debug|x64
+		{10BF0F2C-EEDB-4272-BC1F-6369379D1C48}.Debug|x64.Build.0 = Debug|x64
+		{10BF0F2C-EEDB-4272-BC1F-6369379D1C48}.Debug|x86.ActiveCfg = Debug|Win32
+		{10BF0F2C-EEDB-4272-BC1F-6369379D1C48}.Debug|x86.Build.0 = Debug|Win32
+		{10BF0F2C-EEDB-4272-BC1F-6369379D1C48}.Release|x64.ActiveCfg = Release|x64
+		{10BF0F2C-EEDB-4272-BC1F-6369379D1C48}.Release|x64.Build.0 = Release|x64
+		{10BF0F2C-EEDB-4272-BC1F-6369379D1C48}.Release|x86.ActiveCfg = Release|Win32
+		{10BF0F2C-EEDB-4272-BC1F-6369379D1C48}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EA8C5642-8834-4303-9373-91C417C0D39B}
+	EndGlobalSection
+EndGlobal
